@@ -1,4 +1,4 @@
-## Discipline Is A B*tch
+## Hashnode Bootcamp: Discipline Is A B*tch
 
 For me, one of the hardest parts of writing is the actual sitting down to do it.  During the day, I may come up with hundreds of ideas and topics to write about, but when it finally comes time to write, I get filled with a sense of dread and fear.
 
