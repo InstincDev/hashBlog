@@ -1,4 +1,4 @@
-## Just Keep Writing
+## Hashnode Bootcamp: Just Keep Writing
 
 I came across hashnode while researching the best blogging platforms for programmers.  In the end it was...
 
