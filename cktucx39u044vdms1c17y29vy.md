@@ -1,4 +1,4 @@
-## Give Then Ask
+## Hashnode Bootcamp: Give Then Ask
 
 Creating a presence and personal brand on social media can be intimidating, especially for an introvert.  Thankfully, day 3 of the Hashnode bootcamp provided many helpful tips.
 
