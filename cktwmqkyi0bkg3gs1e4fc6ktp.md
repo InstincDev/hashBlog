@@ -1,4 +1,4 @@
-## 100DaysOfCode using FreeCodeCamp
+## 100DaysOfCode using FreeCodeCamp : Week 1
 
 I have completed the first week of #100DaysOfCode using FreeCodeCamp!
 
